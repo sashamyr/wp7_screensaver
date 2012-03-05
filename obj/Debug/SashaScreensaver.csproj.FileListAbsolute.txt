@@ -1,0 +1,13 @@
+C:\Users\sasha\documents\visual studio 2010\Projects\SashaScreensaver\SashaScreensaver\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sasha\documents\visual studio 2010\Projects\SashaScreensaver\SashaScreensaver\obj\Debug\App.g.i.cs
+C:\Users\sasha\documents\visual studio 2010\Projects\SashaScreensaver\SashaScreensaver\obj\Debug\MainPage.g.i.cs
+C:\Users\sasha\documents\visual studio 2010\Projects\SashaScreensaver\SashaScreensaver\obj\Debug\SashaScreensaver.g.resources
+C:\Users\sasha\documents\visual studio 2010\Projects\SashaScreensaver\SashaScreensaver\Bin\Debug\ApplicationIcon.png
+C:\Users\sasha\documents\visual studio 2010\Projects\SashaScreensaver\SashaScreensaver\Bin\Debug\Background.png
+C:\Users\sasha\documents\visual studio 2010\Projects\SashaScreensaver\SashaScreensaver\Bin\Debug\SashaScreensaver.dll
+C:\Users\sasha\documents\visual studio 2010\Projects\SashaScreensaver\SashaScreensaver\Bin\Debug\SashaScreensaver.pdb
+C:\Users\sasha\documents\visual studio 2010\Projects\SashaScreensaver\SashaScreensaver\Bin\Debug\AppManifest.xaml
+C:\Users\sasha\documents\visual studio 2010\Projects\SashaScreensaver\SashaScreensaver\Bin\Debug\SashaScreensaver.xap
+C:\Users\sasha\documents\visual studio 2010\Projects\SashaScreensaver\SashaScreensaver\obj\Debug\SashaScreensaver.dll
+C:\Users\sasha\documents\visual studio 2010\Projects\SashaScreensaver\SashaScreensaver\obj\Debug\SashaScreensaver.pdb
+C:\Users\sasha\documents\visual studio 2010\Projects\SashaScreensaver\SashaScreensaver\obj\Debug\XapCacheFile.xml
